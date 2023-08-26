@@ -1,0 +1,9 @@
+* bodge-memory
+
+Core memory handling utilities of `bodge` library collection
+
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/borodust/bodge-memory.git |
+| commit  | 9f0f7e1                                          |
+| systems | bodge-memory                                     |
+|---------+--------------------------------------------------|
